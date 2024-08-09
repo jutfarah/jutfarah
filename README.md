@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bem vindo à minha conta no GitHub!
 
 <!--
 **jutfarah/jutfarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
